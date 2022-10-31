@@ -4,7 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/SteamVR/InteractionSystem/Samples/Interactions_Example.unity
+    guid: e3b77830391f10343929883b18f4d5ae
   m_configObjects:
     Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: 49bfce4255501ee4599d68b53eaece79, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 1274bf4d387736046abecd21eb2af703, type: 2}
